@@ -1,0 +1,20 @@
+.footer{
+  height: 215px;
+  background-color: #29335C;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.links a{
+  color: #E4572E;
+  font-size: 25pt;
+}
+.links  p{
+  color: white;
+  margin-top: 20px;
+}
+.links p i{
+  color: #F3A712;
+}

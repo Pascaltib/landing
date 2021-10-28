@@ -1,0 +1,31 @@
+.card-div{
+  padding-top: 20px;
+  width: 900px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.card{
+  width: 240px;
+  height: 275px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 30px;
+}
+.card img{
+  padding-top: 20px;
+  width: 80%;
+}
+.card h3, .card p{
+  text-align: center;
+  padding: 0 20px;
+}
+.card p {
+  font-weight: lighter;
+  opacity: 0.6;
+  padding-bottom: 15px;
+}
